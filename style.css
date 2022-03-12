@@ -1,0 +1,30 @@
+body{
+    background-color:cornsilk;
+    color:mediumblue;
+
+}
+
+.heading{
+    width: 80%;
+    font-size: 45px;
+
+}
+
+.name_of_object{
+    font-size: 20px;
+    color: black;
+
+}
+
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 350px;
+
+
+}
+
+#result_object_name, #result_object_accuracy{
+    color:black;
+    
+}
